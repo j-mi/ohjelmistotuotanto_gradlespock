@@ -1,0 +1,7 @@
+.idea/
+.gradle/
+build/
+out/
+livedemo.iml
+livedemo.ipr
+livedemo.iws
